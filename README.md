@@ -1,0 +1,45 @@
+# Feature-List
+
+- Night Theme
+- Layer Commits (Dialer, Contacts, Deskclock...)
+- SuperSU 2.70
+- SuperSu, Kernel Adiutor, Viper4Android, Layer Manager in Setting if installed
+- Navbar customization
+- Network Traffic
+- Breathing Notifications
+- Lockscreen Shortcuts
+- System Animationen
+- LCD Dencity
+- Ambient Display
+- Kill App Back Button
+- SlimDim
+- App Circle Bar
+- Pie
+- Volume Steps
+- unlinking Ringer with Notification Volume
+- 'Do not disturb' add 15 min Steps and up to 14 Hours
+- increasing Ring Volume
+- Notification Light
+- Volume Rocker Wake
+- Less Notification Sound
+- Reset Battery Stats
+- Configurable dashboard columns
+- Dashboard tileview double lines toggle
+- Volume Long Press Skip Tracks
+- Optional Dashboard switches
+- StatusBar Clock Font Size
+- Statusbar Clock Font Style
+- Second Clock
+- Battery Style
+- Carrier Label
+- Tesla Logo in Statusbar
+- Screen Record
+- Intrusive InCall UI switch
+- Quick Settings: add option to turn off main tiles
+- AppOps
+- Deskclock: increasing volume option for alarm clocks, flip and shake actions
+- Blacklist
+- Flip to Mute/Reject Call
+- Proximity speaker
+
+.......and more

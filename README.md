@@ -2,6 +2,7 @@
 
 - Night Theme
 - Layer Commits (Dialer, Contacts, Deskclock...)
+- German Translate
 - SuperSU 2.70
 - SuperSu, Kernel Adiutor, Viper4Android, Layer Manager in Setting if installed
 - Navbar customization

@@ -10,6 +10,7 @@
 - Breathing Notifications
 - Lockscreen Shortcuts
 - System Animationen
+- Power Menu Animtation
 - LCD Dencity
 - Ambient Display
 - Kill App Back Button
@@ -42,5 +43,6 @@
 - Blacklist
 - Flip to Mute/Reject Call
 - Proximity speaker
+- On the go Mode
 
 .......and more

@@ -44,5 +44,7 @@
 - Flip to Mute/Reject Call
 - Proximity speaker
 - On the go Mode
+- Speed Dial
+- IME Animations
 
 .......and more

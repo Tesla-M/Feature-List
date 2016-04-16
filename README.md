@@ -46,5 +46,6 @@
 - On the go Mode
 - Speed Dial
 - IME Animations
+- QS: add Layers Manager Tile, IME selector Tile, Volume Panel Tile, Kernel Adiutor Tile, TeslaCoil Tile
 
 .......and more

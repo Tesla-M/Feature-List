@@ -47,5 +47,7 @@
 - Speed Dial
 - IME Animations
 - QS: add Layers Manager Tile, IME selector Tile, Volume Panel Tile, Kernel Adiutor Tile, TeslaCoil Tile
+- Sexy up the dexopting dialog
+- QS: add Screenrecord Tile
 
 .......and more

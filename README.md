@@ -49,5 +49,8 @@
 - QS: add Layers Manager Tile, IME selector Tile, Volume Panel Tile, Kernel Adiutor Tile, TeslaCoil Tile
 - Sexy up the dexopting dialog
 - QS: add Screenrecord Tile
+- Dashboard Text Size
+- Viper4Android
+- Adaway
 
 .......and more

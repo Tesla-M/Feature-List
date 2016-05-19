@@ -52,5 +52,10 @@
 - Dashboard Text Size
 - Viper4Android
 - Adaway
+- Dashboard Font Style
+- QS Navbar Tile
+- Battery bar enhancements
+- new Header
+- show charging current in mAh on lockscreen
 
 .......and more

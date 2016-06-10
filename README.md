@@ -57,5 +57,6 @@
 - Battery bar enhancements
 - new Header
 - show charging current in mAh on lockscreen
+- GZR Kernel Adiutor
 
 .......and more

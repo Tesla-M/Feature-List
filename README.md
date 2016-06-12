@@ -29,6 +29,7 @@
 - Dashboard tileview double lines toggle
 - Volume Long Press Skip Tracks
 - Optional Dashboard switches
+- make clock and time clickable in statusbar
 - StatusBar Clock Font Size
 - Statusbar Clock Font Style
 - Second Clock

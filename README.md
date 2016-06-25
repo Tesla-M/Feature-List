@@ -59,5 +59,12 @@
 - new Header
 - show charging current in mAh on lockscreen
 - GZR Kernel Adiutor
+- add Screenshot Crop & Share
+- add animations to quick settings tiles
+- QS shade transparency
+- Option to use volume keys to control media volume anytime
+- Add back volume up/down effect
+- Add Volume adjust sound preference
+- Disable/Enable screenshot sound
 
 .......and more

@@ -1,5 +1,6 @@
 # Feature-List
 
+- ready for OMS
 - Night Theme
 - Layer Commits (Dialer, Contacts, Deskclock...)
 - German Translate
@@ -66,5 +67,7 @@
 - Add back volume up/down effect
 - Add Volume adjust sound preference
 - Disable/Enable screenshot sound
+- Lockscreenfonts
+- Installed Apps: show link to Google Playstore
 
 .......and more
